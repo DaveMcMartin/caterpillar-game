@@ -12,6 +12,7 @@ Move the caterpillar with arrow keys, WASD, or Vim keys (hjkl). Eat apples to gr
 
 - Arrow keys, WASD, or hjkl to move
 - ESC to pause
+- Press Enter to play again on Game Over/Win
 
 ## Building
 
