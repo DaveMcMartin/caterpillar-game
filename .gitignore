@@ -1,0 +1,15 @@
+# Zig-specific build artifacts
+.zig-cache/
+zig-out/
+# Build directories
+/release/
+/debug/
+/build/
+/build-*/
+# Documentation generation temporary files
+/docgen_tmp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
